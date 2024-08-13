@@ -3,3 +3,7 @@ The digital music store analysis project involves analyzing data from a music st
 
 # Database and Tools
 Postgre SQL, PgAdmin 4
+
+# Project Outcome
+
+The goal is to extract valuable insights and make data-driven decisions to optimize business operations and improve customer satisfication.
